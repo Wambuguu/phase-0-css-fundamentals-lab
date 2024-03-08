@@ -3,3 +3,26 @@ body {
   height: 100%;
   margin: 0;
 }
+h1, h3{
+text-align: center;
+}
+nav{
+  text-align: center;
+}
+figure{
+  text-align: center;
+}
+section#details {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 100px;
+  background-color: red;
+}
+section#featured-property {
+  text-align: center;
+  justify-content: space-between;
+  hard width: 800px;
+  padding:0 200px;
+}
+
+  
